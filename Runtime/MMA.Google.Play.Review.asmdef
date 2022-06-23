@@ -1,0 +1,17 @@
+{
+    "name": "MMA.Google.Play.Review",
+    "references": [
+        "GUID:802cda87e14734b9bb05c37c9cd64a18",
+        "GUID:4139e191aa32f459e9eb2e331225ad7e",
+        "GUID:b4318b6f3695442c4983c360248781db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
